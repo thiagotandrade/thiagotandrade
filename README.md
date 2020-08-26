@@ -10,33 +10,39 @@
   </a>
 </p>
 
-# Hey! 👋
+## Hey! 👋
 
 My name is Thiago and I'm a fullstack software developer. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE), Brazil. Currently, I work at Technological Innovations - FITec.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat-square&logo=ionic&logoColor=white)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-R-informational?style=flat-square&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Cloud-GCloud-informational?style=flat-square&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat-square&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white)
+### 🔧 Technologies
+![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Node.JS-informational?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Angular-informational?style=flat-square&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Ionic-informational?style=flat-square&logo=ionic&logoColor=white)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/React_Native-informational?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/R-informational?style=flat-square&logo=r&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/GCloud-informational?style=flat-square&logo=google-cloud&logoColor=white)
 
-## 👨‍💻 Currently I am...
+### 👨‍💻 Currently I am...
 - An artificial intelligence graduate student from the University of Pernambuco (UPE).
 - Enrolled in the 13rd edition of [Rocketseat](https://github.com/rocketseat)'s Bootcamp GoStack.
 
-## 📊 Github Stats
+### 👨 About me
+I live in Recife (PE) and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of academic and professional life. Nowadays, I'm mainly focused on software engineering and decided to deepen my knowledge into the artificial intelligence field.
+
+In my spare time, I enjoy watching motorsport races and Netflix series, playing competitive games such as CS:GO, and traveling to new places to explore its culinary.
+
+
+### 📊 Github Stats
+<details>
+<summary>Click to expand!</summary>
+
 <p align="center">
   <a href="https://github.com/thiagotandrade/thiagotandrade">
     <img src="https://badges.pufler.dev/visits/thiagotandrade/thiagotandrade?style=for-the-badge&color=informational" alt="Visits" />
@@ -62,3 +68,5 @@ My name is Thiago and I'm a fullstack software developer. I've graduated at Comp
     >
   </a> 
 </p>
+
+</details>
