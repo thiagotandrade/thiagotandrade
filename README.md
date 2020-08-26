@@ -36,7 +36,7 @@ My name is Thiago and I'm a fullstack software developer. I've graduated at Comp
 ### 👨 About me
 I live in Recife (PE) and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of academic and professional life. Nowadays, I'm mainly focused on software engineering and decided to deepen my knowledge into the artificial intelligence field.
 
-In my spare time, I enjoy watching motorsport races and Netflix series, playing competitive games such as CS:GO, and traveling to new places to explore its culinary.
+In my spare time, I enjoy watching motorsport races and Netflix series, playing competitive games (such as CS:GO) and traveling to new places to explore its culinary.
 
 
 ### 📊 Github Stats
