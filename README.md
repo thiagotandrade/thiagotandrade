@@ -12,7 +12,7 @@
 
 ## Hey! 👋
 
-My name is Thiago and I'm a fullstack software developer. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE), Brazil. Currently, I work at Technological Innovations - FITec.
+My name is Thiago and I'm a fullstack software engineer. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE), Brazil. Currently, I work at Technological Innovations - FITec.
 
 ### 🔧 Technologies
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white)
