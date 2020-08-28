@@ -29,7 +29,7 @@ My name is Thiago and I'm a software engineer. I've graduated at Computer Engine
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/GCloud-informational?style=flat-square&logo=google-cloud&logoColor=white)
 
-### 👨‍💻 Currently I am...
+### 👨‍💻 Nowadays I am...
 - An artificial intelligence graduate student from the University of Pernambuco (UPE).
 - Enrolled in the 13rd edition of [Rocketseat](https://github.com/rocketseat)'s Bootcamp GoStack.
 
