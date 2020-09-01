@@ -40,9 +40,6 @@ In my spare time, I enjoy watching motorsport races and Netflix series, playing 
 
 
 ### 📊 Github Stats
-<details>
-<summary>Click to expand!</summary>
-
 <p align="center">
   <a href="https://github.com/thiagotandrade/thiagotandrade">
     <img src="https://badges.pufler.dev/visits/thiagotandrade/thiagotandrade?style=for-the-badge&color=informational" alt="Visits" />
@@ -68,5 +65,3 @@ In my spare time, I enjoy watching motorsport races and Netflix series, playing 
     >
   </a> 
 </p>
-
-</details>
