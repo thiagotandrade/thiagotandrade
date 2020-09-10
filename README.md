@@ -14,6 +14,10 @@
 
 My name is Thiago and I'm a software engineer. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE), Brazil. Currently, I work at Technological Innovations - FITec.
 
+### 👨‍💻 Nowadays I am...
+- An artificial intelligence graduate student from the University of Pernambuco (UPE).
+- Enrolled in the 13rd edition of [Rocketseat](https://github.com/rocketseat)'s Bootcamp GoStack.
+
 ### 🔧 Technologies
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Node.JS-informational?style=flat-square&logo=node.js&logoColor=white)
@@ -21,17 +25,11 @@ My name is Thiago and I'm a software engineer. I've graduated at Computer Engine
 ![](https://img.shields.io/badge/Ionic-informational?style=flat-square&logo=ionic&logoColor=white)
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-informational?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/R-informational?style=flat-square&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/GCloud-informational?style=flat-square&logo=google-cloud&logoColor=white)
-
-### 👨‍💻 Nowadays I am...
-- An artificial intelligence graduate student from the University of Pernambuco (UPE).
-- Enrolled in the 13rd edition of [Rocketseat](https://github.com/rocketseat)'s Bootcamp GoStack.
 
 ### 👨 About me
 I live in Recife (PE) and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of academic and professional life. Nowadays, I'm mainly focused on software engineering and decided to deepen my knowledge into the artificial intelligence field.
