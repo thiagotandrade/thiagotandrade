@@ -25,6 +25,7 @@ My name is Thiago and I'm a software engineer. I've graduated at Computer Engine
 ![](https://img.shields.io/badge/Ionic-informational?style=flat-square&logo=ionic&logoColor=white)
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-informational?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Typescript-informational?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
