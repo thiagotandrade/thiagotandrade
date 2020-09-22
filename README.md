@@ -12,8 +12,7 @@
 
 ## Hey! 👋
 
-My name is Thiago and I'm a software engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE). Currently, I work at Technological Innovations - FITec as a Software Development Specialist Jr.
-
+My name is Thiago and I'm a software engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE). Currently, I work at Technological Innovations - FITec.
 
 ### 👨‍💻 Nowadays I am...
 - A postgraduate student in Artificial Intelligence from the University of Pernambuco (UPE).
