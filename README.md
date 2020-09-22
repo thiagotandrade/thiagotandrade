@@ -33,7 +33,7 @@ My name is Thiago and I'm a software engineer. I've graduated at Computer Engine
 ![](https://img.shields.io/badge/GCloud-informational?style=flat-square&logo=google-cloud&logoColor=white)
 
 ### 👨 About me
-I live in Recife (PE) and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of academic and professional life. Nowadays, I'm mainly focused on software engineering and decided to deepen my knowledge into the artificial intelligence field.
+I live in Recife (PE) and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of academic and professional lifes. Nowadays, I'm mainly focused on full stack WEB development and also decided to deepen my knowledge into the artificial intelligence field.
 
 In my spare time, I enjoy watching motorsport races and Netflix series, playing competitive games (such as CS:GO) and traveling to new places to explore its culinary.
 
