@@ -46,10 +46,10 @@ In my spare time, I enjoy watching motorsport races and Netflix series, playing 
 ### 📊 Github Stats
 <p align="center">
   <a href="https://github.com/thiagotandrade/thiagotandrade">
-    <img src="https://badges.pufler.dev/visits/thiagotandrade/thiagotandrade?style=for-the-badge&color=informational" alt="Visits" />
+    <img src="https://badges.pufler.dev/visits/thiagotandrade/thiagotandrade?style=for-the-badge&color=%23D3D3D3" alt="Visits" />
   </a>
   <a href="https://github.com/thiagotandrade/thiagotandrade">
-    <img src="https://badges.pufler.dev/repos/thiagotandrade?style=for-the-badge&color=informational" alt="Repositories" />
+    <img src="https://badges.pufler.dev/repos/thiagotandrade?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
   </a>
 </p>
 
@@ -57,14 +57,14 @@ In my spare time, I enjoy watching motorsport races and Netflix series, playing 
   <a href="https://github.com/thiagotandrade/thiagotandrade">
     <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotandrade&hide=jupyter%20notebook&theme=tokyonight"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotandrade&hide=jupyter%20notebook&theme=graywhite"
          alt="Top languages"
     >
   </a>
   <a href="https://github.com/thiagotandrade/thiagotandrade">
     <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api/?username=thiagotandrade&show_icons=true&count_private=true&include_all_commits=true&line_height=27&&theme=tokyonight"
+         src="https://github-readme-stats.vercel.app/api/?username=thiagotandrade&show_icons=true&count_private=true&include_all_commits=true&line_height=27&&theme=graywhite"
          alt="GitHub stats"
     >
   </a> 
