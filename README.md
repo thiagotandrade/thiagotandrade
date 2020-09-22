@@ -14,6 +14,11 @@
 
 My name is Thiago and I'm a software engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE). Currently, I work at Technological Innovations - FITec as a Software Development Specialist Jr.
 
+
+### 👨‍💻 Nowadays I am...
+- A postgraduate student in Artificial Intelligence from the University of Pernambuco (UPE).
+- Enrolled in the 13rd edition of [:rocket: Rocketseat](https://github.com/rocketseat)'s Bootcamp GoStack.
+
 ### 🔧 Technologies
 I work with:
 <img src="https://img.shields.io/badge/Angular-%23D3D3D3?style=flat-square&logo=angular&logoColor=black" />
@@ -30,12 +35,7 @@ Also, I'm learning:
 <img src="https://img.shields.io/badge/ReactJS-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/React_Native-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
-<img src="https://img.shields.io/badge/Typescript-%23D3D3D3?style=flat-square&logo=typescript&logoColor=black" /> 
-
-### 👨‍💻 Nowadays I am...
-- An artificial intelligence graduate student from the University of Pernambuco (UPE).
-- Enrolled in the 13rd edition of [:rocket: Rocketseat](https://github.com/rocketseat)'s Bootcamp GoStack.
-
+<img src="https://img.shields.io/badge/Typescript-%23D3D3D3?style=flat-square&logo=typescript&logoColor=black" />
 
 ### 👨 About me
 I live in Recife/Pernambuco and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of both academic and professional lifes. At the moment, I'm mainly focused on full stack WEB development and also decided to deepen my knowledge into the artificial intelligence field.
