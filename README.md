@@ -30,7 +30,7 @@ I work with:
 <img src="https://img.shields.io/badge/Docker-%23D3D3D3?style=flat-square&logo=docker&logoColor=black" />
 <img src="https://img.shields.io/badge/GCloud-%23D3D3D3?style=flat-square&logo=google-cloud&logoColor=black" />
 
-Also, I'm studying:
+Additionally, I'm studying:
 <img src="https://img.shields.io/badge/ReactJS-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/React_Native-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
