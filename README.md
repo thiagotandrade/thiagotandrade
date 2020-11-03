@@ -44,9 +44,9 @@ In my spare time, I enjoy watching motorsport races and Netflix series, playing 
 
 ### 📊 Github Stats
 <p align="center">
-  <a href="https://github.com/thiagotandrade/thiagotandrade">
+<!--   <a href="https://github.com/thiagotandrade/thiagotandrade">
     <img src="https://badges.pufler.dev/visits/thiagotandrade/thiagotandrade?style=for-the-badge&color=%23D3D3D3" alt="Visits" />
-  </a>
+  </a> -->
   <a href="https://github.com/thiagotandrade/thiagotandrade">
     <img src="https://badges.pufler.dev/repos/thiagotandrade?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
   </a>
