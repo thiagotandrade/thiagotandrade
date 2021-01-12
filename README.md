@@ -16,7 +16,6 @@ My name is Thiago and I'm a software engineer :computer:. I've graduated at Comp
 
 ### 👨‍💻 Nowadays I am...
 - A postgraduate student in Artificial Intelligence from the University of Pernambuco (UPE).
-- Enrolled in the 13rd edition of [:rocket: Rocketseat](https://github.com/rocketseat)'s Bootcamp GoStack.
 
 ### 🔧 Technologies
 I work with:
