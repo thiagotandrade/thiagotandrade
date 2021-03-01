@@ -36,7 +36,7 @@ Additionally, I'm studying:
 <img src="https://img.shields.io/badge/Typescript-%23D3D3D3?style=flat-square&logo=typescript&logoColor=black" />
 
 ### 👨 About me
-I live in Recife/Pernambuco and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of both academic and professional lifes. At the moment, I'm mainly focused on full stack WEB development and also decided to deepen my knowledge into the artificial intelligence field.
+I live in Recife/Pernambuco and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of both academic and professional lives. At the moment, I'm mainly focused on full stack WEB development and also decided to deepen my knowledge into the artificial intelligence field.
 
 In my spare time, I enjoy watching motorsport races and Netflix series, playing competitive games (such as CS:GO) and traveling to new places to explore its culinary.
 
