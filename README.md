@@ -26,7 +26,7 @@ I work with: <br/>
 <img alt="Python" src="https://img.shields.io/badge/Python-%23D3D3D3?style=flat-square&logo=python&logoColor=black" />
 <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23D3D3D3?style=flat-square&logo=c-sharp&logoColor=black" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23D3D3D3?style=flat-square&logo=html5&logoColor=black" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-%23D3D3D3?style=flat-square&logo=css&logoColor=black" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23D3D3D3?style=flat-square&logo=css3&logoColor=black" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23D3D3D3?style=flat-square&logo=postgresql&logoColor=black" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23D3D3D3?style=flat-square&logo=mysql&logoColor=black" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%23D3D3D3?style=flat-square&logo=docker&logoColor=black" />
@@ -35,7 +35,6 @@ I work with: <br/>
 <img alt="GCP" src="https://img.shields.io/badge/GCP-%23D3D3D3?style=flat-square&logo=google-cloud&logoColor=black" />
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D3D3D3?style=flat-square&logo=jenkins&logoColor=black" />
 <img alt="Git" src="https://img.shields.io/badge/Git-%23D3D3D3?style=flat-square&logo=git&logoColor=black" />
-<img alt="SVN" src="https://img.shields.io/badge/SVN-%23D3D3D3?style=flat-square&logo=svn&logoColor=black" />
 
 Additionally, I have personal and academic experience with:  <br/>
 <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
