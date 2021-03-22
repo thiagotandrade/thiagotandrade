@@ -23,7 +23,6 @@ I work with: <br/>
 <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%23D3D3D3?style=flat-square&logo=ionic&logoColor=black" />
 <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
 <img alt="Java" src="https://img.shields.io/badge/Java-%23D3D3D3?style=flat-square&logo=java&logoColor=black" />
-<img alt="Python" src="https://img.shields.io/badge/Python-%23D3D3D3?style=flat-square&logo=python&logoColor=black" />
 <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23D3D3D3?style=flat-square&logo=c-sharp&logoColor=black" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23D3D3D3?style=flat-square&logo=html5&logoColor=black" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23D3D3D3?style=flat-square&logo=css3&logoColor=black" />
@@ -39,7 +38,6 @@ I work with: <br/>
 Additionally, I have personal and academic experience with:  <br/>
 <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
-<img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%23D3D3D3?style=flat-square&logo=typescript&logoColor=black" />
 <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%23D3D3D3?style=flat-square&logo=elixir&logoColor=black" />
 <img alt="Python" src="https://img.shields.io/badge/Python-%23D3D3D3?style=flat-square&logo=python&logoColor=black" />
