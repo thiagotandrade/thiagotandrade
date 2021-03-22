@@ -18,7 +18,7 @@ My name is Thiago and I'm a software engineer :computer:. I've graduated at Comp
 - A postgraduate student in Artificial Intelligence from the University of Pernambuco (UPE).
 
 ### 🔧 Technologies
-I work with:
+I work with: <br/>
 <img alt="Angular" src="https://img.shields.io/badge/Angular-%23D3D3D3?style=flat-square&logo=angular&logoColor=black" />
 <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%23D3D3D3?style=flat-square&logo=ionic&logoColor=black" />
 <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
@@ -37,7 +37,7 @@ I work with:
 <img alt="Git" src="https://img.shields.io/badge/Git-%23D3D3D3?style=flat-square&logo=git&logoColor=black" />
 <img alt="SVN" src="https://img.shields.io/badge/SVN-%23D3D3D3?style=flat-square&logo=svn&logoColor=black" />
 
-Additionally, I have personal and academic experience with:
+Additionally, I have personal and academic experience with:  <br/>
 <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
