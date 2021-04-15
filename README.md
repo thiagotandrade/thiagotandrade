@@ -24,6 +24,7 @@ I work with: <br/>
 <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
 <img alt="Java" src="https://img.shields.io/badge/Java-%23D3D3D3?style=flat-square&logo=java&logoColor=black" />
 <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23D3D3D3?style=flat-square&logo=c-sharp&logoColor=black" />
+<img alt="Python" src="https://img.shields.io/badge/Python-%23D3D3D3?style=flat-square&logo=python&logoColor=black" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23D3D3D3?style=flat-square&logo=html5&logoColor=black" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23D3D3D3?style=flat-square&logo=css3&logoColor=black" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23D3D3D3?style=flat-square&logo=postgresql&logoColor=black" />
@@ -40,7 +41,6 @@ Additionally, I have personal and academic experience with:  <br/>
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%23D3D3D3?style=flat-square&logo=typescript&logoColor=black" />
 <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%23D3D3D3?style=flat-square&logo=elixir&logoColor=black" />
-<img alt="Python" src="https://img.shields.io/badge/Python-%23D3D3D3?style=flat-square&logo=python&logoColor=black" />
 <img alt="R" src="https://img.shields.io/badge/R-%23D3D3D3?style=flat-square&logo=r&logoColor=black" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23D3D3D3?style=flat-square&logo=mongodb&logoColor=black" />
 <img alt="Redis" src="https://img.shields.io/badge/Redis-%23D3D3D3?style=flat-square&logo=redis&logoColor=black" />
