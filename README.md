@@ -12,10 +12,10 @@
 
 ## Hey! 👋
 
-My name is Thiago and I'm a computer engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE). Currently, I work at Technological Innovations - FITec.
+My name is Thiago and I'm a computer engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE) and I'm a AI specialist from the University of Pernambuco (UPE). Currently, I work at MAN Digital Hub by VWDS as a Backend Software Developer.
 
 ### 👨‍💻 Nowadays I am...
-- A postgraduate student in Artificial Intelligence from the University of Pernambuco (UPE).
+- Studying Kotlin and AWS 🔥
 
 ### 🔧 Technologies
 I work with: <br/>
