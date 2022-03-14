@@ -12,29 +12,30 @@
 
 ## Hey! 👋
 
-My name is Thiago and I'm a computer engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (CIn-UFPE) and I'm a AI specialist from the University of Pernambuco (UPE). Currently, I work at MAN Digital Hub by VWDS as a Backend Software Developer.
+My name is Thiago and I'm a computer engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (UFPE) and I'm an AI specialist from the University of Pernambuco (UPE). Currently, I work at MAN Digital Hub by VWDS as a Backend Software Developer.
 
 ### 👨‍💻 Nowadays I am...
 - Studying Kotlin and AWS 🔥
 
 ### 🔧 Technologies
-I work with: <br/>
-<img alt="Angular" src="https://img.shields.io/badge/Angular-%23D3D3D3?style=flat-square&logo=angular&logoColor=black" />
-<img alt="Ionic" src="https://img.shields.io/badge/Ionic-%23D3D3D3?style=flat-square&logo=ionic&logoColor=black" />
-<img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
+I have worked with: <br/>
 <img alt="Java" src="https://img.shields.io/badge/Java-%23D3D3D3?style=flat-square&logo=java&logoColor=black" />
-<img alt="C#" src="https://img.shields.io/badge/C%23%20-%23D3D3D3?style=flat-square&logo=c-sharp&logoColor=black" />
+<img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
 <img alt="Python" src="https://img.shields.io/badge/Python-%23D3D3D3?style=flat-square&logo=python&logoColor=black" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23D3D3D3?style=flat-square&logo=html5&logoColor=black" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23D3D3D3?style=flat-square&logo=css3&logoColor=black" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23D3D3D3?style=flat-square&logo=postgresql&logoColor=black" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23D3D3D3?style=flat-square&logo=mysql&logoColor=black" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%23D3D3D3?style=flat-square&logo=docker&logoColor=black" />
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23D3D3D3?style=flat-square&logo=ubuntu&logoColor=black" />
-<img alt="Windows" src="https://img.shields.io/badge/Windows-%23D3D3D3?style=flat-square&logo=windows&logoColor=black" />
 <img alt="GCP" src="https://img.shields.io/badge/GCP-%23D3D3D3?style=flat-square&logo=google-cloud&logoColor=black" />
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D3D3D3?style=flat-square&logo=jenkins&logoColor=black" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%23D3D3D3?style=flat-square&logo=angular&logoColor=black" />
+<img alt="Ionic" src="https://img.shields.io/badge/Ionic-%23D3D3D3?style=flat-square&logo=ionic&logoColor=black" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23D3D3D3?style=flat-square&logo=html5&logoColor=black" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23D3D3D3?style=flat-square&logo=css3&logoColor=black" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23D3D3D3?style=flat-square&logo=ubuntu&logoColor=black" />
+<img alt="Windows" src="https://img.shields.io/badge/Windows-%23D3D3D3?style=flat-square&logo=windows&logoColor=black" />
 <img alt="Git" src="https://img.shields.io/badge/Git-%23D3D3D3?style=flat-square&logo=git&logoColor=black" />
+<!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-%23D3D3D3?style=flat-square&logo=amazon&logoColor=black" />
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23D3D3D3?style=flat-square&logo=kotlin&logoColor=black" /> -->
 
 Additionally, I have personal and academic experience with:  <br/>
 <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
@@ -48,7 +49,7 @@ Additionally, I have personal and academic experience with:  <br/>
 ### 👨 About me
 I live in Recife/Pernambuco and discovered technology through my first PC as a child. Ever since, I was always eager to learn more about computers and that reflected on my choice of both academic and professional lives. At the moment, I'm mainly focused on full stack WEB development and also decided to deepen my knowledge into the artificial intelligence field.
 
-In my spare time, I enjoy watching motorsport races and Netflix series, playing competitive games (such as CS:GO) and traveling to new places to explore its culinary.
+In my spare time, I enjoy watching motorsport races and Netflix series, playing competitive games (such as CS:GO) and traveling to new places to explore their culinary.
 
 
 ### 📊 Github Stats
