@@ -19,6 +19,8 @@ My name is Thiago and I'm a computer engineer :computer:. I've graduated at Comp
 
 ### 🔧 Technologies
 I have worked with: <br/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23D3D3D3?style=flat-square&logo=amazon&logoColor=black" />
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23D3D3D3?style=flat-square&logo=kotlin&logoColor=black" />
 <img alt="Java" src="https://img.shields.io/badge/Java-%23D3D3D3?style=flat-square&logo=java&logoColor=black" />
 <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-%23D3D3D3?style=flat-square&logo=node.js&logoColor=black" />
 <img alt="Python" src="https://img.shields.io/badge/Python-%23D3D3D3?style=flat-square&logo=python&logoColor=black" />
@@ -34,8 +36,6 @@ I have worked with: <br/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23D3D3D3?style=flat-square&logo=ubuntu&logoColor=black" />
 <img alt="Windows" src="https://img.shields.io/badge/Windows-%23D3D3D3?style=flat-square&logo=windows&logoColor=black" />
 <img alt="Git" src="https://img.shields.io/badge/Git-%23D3D3D3?style=flat-square&logo=git&logoColor=black" />
-<!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-%23D3D3D3?style=flat-square&logo=amazon&logoColor=black" />
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23D3D3D3?style=flat-square&logo=kotlin&logoColor=black" /> -->
 
 Additionally, I have personal and academic experience with:  <br/>
 <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%23D3D3D3?style=flat-square&logo=react&logoColor=black" />
