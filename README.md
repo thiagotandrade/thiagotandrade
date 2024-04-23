@@ -15,7 +15,8 @@
 My name is Thiago and I'm a computer engineer :computer:. I've graduated at Computer Engineering from the Federal University of Pernambuco (UFPE) and I'm an AI specialist from the University of Pernambuco (UPE). Currently, I work at MAN Digital Hub by VWDS as a Backend Software Developer.
 
 ### 👨‍💻 Nowadays I am...
-- Studying Kotlin and AWS 🔥
+- Studying for AWS certificate 🔥
+- Reading the book "Refactoring: Improving the Design of Existing Code"
 
 ### 🔧 Technologies
 I have worked with: <br/>
